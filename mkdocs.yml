@@ -1,0 +1,26 @@
+site_name: Prompt Library
+site_description: Biblioteca de prompts de IA organizados por categoría
+site_url: ""
+nav:
+  - Inicio: index.md
+  - Prompts:
+      - Resumen: prompts/index.md
+      - Plantilla base: prompts/plantilla-prompt.md
+      - Programación:
+          - Índice: prompts/programacion/README.md
+          - Análisis de código: prompts/programacion/analisis-codigo.md
+      - Investigación:
+          - Índice: prompts/investigacion/README.md
+          - Síntesis de investigación: prompts/investigacion/resumen-investigacion.md
+      - Escritura:
+          - Índice: prompts/escritura/README.md
+          - Redacción de contenido: prompts/escritura/redaccion-contenido.md
+      - Análisis de datos:
+          - Índice: prompts/analisis-de-datos/README.md
+          - Limpieza y análisis: prompts/analisis-de-datos/analisis-dataset.md
+      - Productividad:
+          - Índice: prompts/productividad/README.md
+          - Planificación diaria: prompts/productividad/planificacion-diaria.md
+
+theme:
+  name: mkdocs
