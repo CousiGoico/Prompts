@@ -21,6 +21,10 @@ nav:
       - Productividad:
           - Índice: prompts/productividad/README.md
           - Planificación diaria: prompts/productividad/planificacion-diaria.md
+      - Otros:
+          - Índice: prompts/otros/README.md
+          - Sobre mí: prompts/otros/sobre-mi.md
+          - Huella digital: prompts/otros/huella-digital.md
 
 theme:
   name: mkdocs

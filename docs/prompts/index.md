@@ -10,6 +10,7 @@ Aquí tienes una organización de prompts por disciplina para facilitar su reuti
 - [Escritura](escritura/README.md)
 - [Análisis de datos](analisis-de-datos/README.md)
 - [Productividad](productividad/README.md)
+- [Otros](otros/README.md)
 
 ## Reglas recomendadas
 
